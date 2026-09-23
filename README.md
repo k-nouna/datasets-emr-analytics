@@ -2,14 +2,15 @@
 
 > **An AI Module for Natural Language Querying of Electronic Medical Record Databases and Automated Data Visualization: Case of the MINSANTE EMR System in Cameroon**
 
-This repository holds the two materials the article rests on: the dataset used to train the module, and the field survey that justifies its design.
+This repository holds the materials the article rests on: a demo recording of the working module, the dataset used to train it, and the field survey that justifies its design.
 
 The article describes an AI module that answers a question asked in French or English against an electronic medical record database, without going through an IT department and without an internet connection, and then picks the visualization that fits the result on its own. The case study is the MINSANTE EMR system in Cameroon, which is built on OpenMRS.
 
-Each file supports one half of that claim.
+Each file supports one part of that claim.
 
 | File | What it supports in the article |
 |---|---|
+| `EMR_Analytics_demo.mp4` | the demo: a 2-minute screen recording of the EMR Analytics platform, showing the module in use end to end |
 | `dataset_openmrs_8000.json` | training set for the *natural language querying* half: 8000 question → SQL pairs over the OpenMRS schema, in French and English, with a `graphs` field that also feeds the *automated data visualization* half |
 | `emr-analytics-form-answers.csv` | the field survey, anonymized: 28 responses from Cameroonian health workers on how they obtain a figure today, the questions they actually ask, and the form they want the answer in |
 | `emr-analytics-eval-questions.csv` | the evaluation set derived from the survey: 159 real questions, one per row, with the chart format the respondent expected — used to score the module on real user input rather than on held-out synthetic data |
@@ -18,7 +19,13 @@ The training data is synthetic; the evaluation data is not. That split is the po
 
 **Personal data has been removed from the survey export.** Respondents' contact details (7 email addresses and 13 phone numbers, collected only to offer them a trial of the tool) have been deleted, along with the identifiable facility and company names appearing in free text. See [Anonymization](#anonymization) for exactly what was removed.
 
-The sections below document each file: [the training dataset](#the-openmrs-text-to-sql-dataset), [the field survey](#the-field-survey), then [the evaluation set](#the-evaluation-set).
+The sections below cover [the demo](#demo), [the training dataset](#the-openmrs-text-to-sql-dataset), [the field survey](#the-field-survey), then [the evaluation set](#the-evaluation-set).
+
+## Demo
+
+[`EMR_Analytics_demo.mp4`](EMR_Analytics_demo.mp4) — a 2 min 05 screen recording of the EMR Analytics platform, the interface built on top of the module described in the article: dashboards, advanced analyses with automatically chosen charts, patient data views, and the connection to the EMR database.
+
+<video src="https://github.com/k-nouna/datasets-emr-analytics/raw/main/EMR_Analytics_demo.mp4" controls width="100%"></video>
 
 ## The OpenMRS text-to-SQL dataset
 
