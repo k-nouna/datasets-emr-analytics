@@ -1,0 +1,144 @@
+question_id,respondent_id,metier,structure,delai_actuel,importance,question,dans_le_perimetre,reponse_delivree,lignes_renvoyees,format_propose,format_accepte,format_prefere,formats_acceptes,latence_s,plus_rapide_qu_aujourdhui,servie
+R01-Q1,R01,Infirmier ou infirmière,Hôpital général ou central,Un à trois jours,4,Les informations sur les nombres de consultations,1,1,0,table,1,1,table,59.3,1,1
+R01-Q2,R01,Infirmier ou infirmière,Hôpital général ou central,Un à trois jours,4,Quel est l'état général du patient ?,0,0,0,number,0,0,table,63.5,1,0
+R01-Q3,R01,Infirmier ou infirmière,Hôpital général ou central,Un à trois jours,4,Quelle est la répartition des consultations par discipline ?,1,1,0,table,1,1,table,21.6,1,1
+R01-Q4,R01,Infirmier ou infirmière,Hôpital général ou central,Un à trois jours,0,Les examens demandés,1,0,0,table,0,0,,34.6,1,0
+R02-Q1,R02,Infirmier ou infirmière,École des infirmières en formation,Quelques heures,3,Les traitements sont-ils administrés dans les délais prévus ?,0,0,0,table,0,0,pie_chart,15.2,1,0
+R02-Q2,R02,Infirmier ou infirmière,École des infirmières en formation,Quelques heures,3,Combien de patients ont réalisé les examens prescrits et suivi leur traitement ?,1,1,1,number,0,0,pie_chart,47.6,1,0
+R02-Q3,R02,Infirmier ou infirmière,École des infirmières en formation,Quelques heures,3,Les protocoles de prise en charge ont-ils été respectés ?,0,0,0,table,0,0,bar_chart,43.6,1,0
+R03-Q1,R03,Infirmier ou infirmière,Hôpital militaire,Quelques heures,4,Quel est la fréquence de consultation du centre ?,1,1,0,number,0,0,line_chart,43.6,1,0
+R03-Q2,R03,Infirmier ou infirmière,Hôpital militaire,Quelques heures,5,Que pensez vous du suivi chez nous ?,0,0,0,table,0,0,pie_chart,52.4,1,0
+R03-Q3,R03,Infirmier ou infirmière,Hôpital militaire,Quelques heures,4,Quelle est la qualité de la passation de service entre les équipes ?,0,0,0,table,0,0,line_chart,43.0,1,0
+R03-Q4,R03,Infirmier ou infirmière,Hôpital militaire,Quelques heures,4,Quels sont les principaux motifs de consultation ?,1,1,0,table,0,0,bar_chart;doughnut_chart,31.8,1,0
+R03-Q5,R03,Infirmier ou infirmière,Hôpital militaire,Quelques heures,3,Comparaison de la fréquentation entre deux périodes données,1,1,0,table,0,0,bar_chart;pie_chart;line_chart,36.9,1,0
+R03-Q6,R03,Infirmier ou infirmière,Hôpital militaire,Quelques heures,4,Quels est l'impact réel du manque de personnel qualifié sur la fréquentation de la structure ?,0,0,0,table,0,0,bar_chart;pie_chart;doughnut_chart,34.5,1,0
+R03-Q7,R03,Infirmier ou infirmière,Hôpital militaire,Quelques heures,0,Quels sont les besoins en soins de santé mentale des populations fréquentant la structure ?,0,0,0,table,0,0,,20.9,1,0
+R04-Q1,R04,Médecin,[structure],Quelques minutes,5,Combien de personnes sont effectivement passés en visite systématique en janvier ?,1,1,1,number,1,0,number;table;pie_chart,14.8,1,1
+R04-Q2,R04,Médecin,[structure],Quelques minutes,5,Combien de patients sont passés le mois dernier pour la contre-expertise venant de [entreprise 1] et [entreprise 2]?,1,1,1,number,0,0,table;pie_chart,26.6,1,0
+R04-Q3,R04,Médecin,[structure],Quelques minutes,5,Quels employés sont arrivés après 07h30 ?,0,0,0,table,1,0,number;table;pie_chart,42.0,1,0
+R04-Q4,R04,Médecin,[structure],Quelques minutes,5,Combien de patients avons-nous diagnostiqué et traité pour la fièvre typhoïde ce mois?,1,1,0,number,1,0,number;pie_chart,18.8,1,1
+R04-Q5,R04,Médecin,[structure],Quelques minutes,5,Comparer le nombre de consultations entre deux périodes.,1,1,0,table,0,0,number;pie_chart,18.3,1,0
+R04-Q6,R04,Médecin,[structure],Quelques minutes,5,Quels sont les sociétés qui sont partenaires de la [structure] ?,0,0,0,table,0,0,number;pie_chart,44.2,1,0
+R04-Q7,R04,Médecin,[structure],Quelques minutes,0,J'aimerais connaître un détail sur le système de santé au Cameroun Comment se passe le recrutement à la [structure],0,0,0,table,0,0,,33.4,1,0
+R05-Q1,R05,Médecin,Hôpital général ou central,Quelques heures,5,Le rapport d'activité mensuelle par médecin est-il possible d'avoir sur exel ?,1,1,0,table,1,0,table,20.8,1,1
+R05-Q2,R05,Médecin,Hôpital général ou central,Quelques heures,5,Avoir le nombre de nouveau patient et d'anciens par mois ainsi que leur diagnostic et leur évolution.,1,1,0,table,0,0,bar_chart,16.7,1,0
+R05-Q3,R05,Médecin,Hôpital général ou central,Quelques heures,5,"Heure d 'arriver et de départ du personnel, la quantité des produits en stocks, le montre de lit vide et ceux occupés",0,0,0,number,0,0,bar_chart,58.5,1,0
+R05-Q4,R05,Médecin,Hôpital général ou central,Quelques heures,5,Comparer l'activité du service d'un mois à l'autre.,1,1,0,line_chart,0,0,bar_chart,24.5,1,0
+R05-Q5,R05,Médecin,Hôpital général ou central,Quelques heures,5,Comparer l'activité du service entre deux périodes.,1,0,0,line_chart,0,0,bar_chart,33.7,1,0
+R05-Q6,R05,Médecin,Hôpital général ou central,Quelques heures,5,Comment calculer le salaire mensuel des médecins ainsi que les quotes parts,0,0,0,table,1,1,table,15.2,1,0
+R05-Q7,R05,Médecin,Hôpital général ou central,Quelques heures,0,Sur quelle base le salaire est calculé ?,0,0,0,table,0,0,,15.5,1,0
+R06-Q1,R06,Technicienne  principale du génie sanitaire,Hôpital général ou central,Quelques heures,1,Pourquoi ils n'appliquent pas correctement l'hygiène chez eux,0,0,0,number,0,0,table,114.5,1,0
+R06-Q2,R06,Technicienne  principale du génie sanitaire,Hôpital général ou central,Quelques heures,3,Le personnel applique-t-il correctement les règles d'hygiène ?,0,0,0,table,1,1,table,12.0,1,0
+R06-Q3,R06,Technicienne  principale du génie sanitaire,Hôpital général ou central,Quelques heures,2,Savoir si le personnel sais exactement utiliser les matériels d'entretien,0,0,0,table,1,1,table,11.1,1,0
+R06-Q4,R06,Technicienne  principale du génie sanitaire,Hôpital général ou central,Quelques heures,3,Comment évolue le respect des règles d'hygiène d'un mois à l'autre ?,0,0,0,line_chart,0,0,table,12.5,1,0
+R06-Q5,R06,Technicienne  principale du génie sanitaire,Hôpital général ou central,Quelques heures,2,Comparer le respect des règles d'hygiène entre deux groupes de personnel.,0,0,0,table,0,1,number,9.0,1,0
+R07-Q1,R07,Médecin,Hôpital général ou central,Un à trois jours,1,la proportion d’enfants de moins de 5 ans ayant été hospitalisés pour méninge bactérienne à pneumocoque,1,0,0,number,0,0,table;bar_chart;pie_chart,13.7,1,0
+R07-Q2,R07,Médecin,Hôpital général ou central,Un à trois jours,1,enfant ayant un syndrome de west lésionnel,1,0,0,table,1,1,table;pie_chart,13.6,1,0
+R07-Q3,R07,Médecin,Hôpital général ou central,Un à trois jours,1,les horaires du personnel soignant,0,0,0,table,1,1,table;bar_chart,8.6,1,0
+R07-Q4,R07,Médecin,Hôpital général ou central,Un à trois jours,1,la sévérité de l’épilepsie chez les patients cérébro-spinal lésés,1,1,0,table,1,0,table;pie_chart,9.1,1,1
+R07-Q5,R07,Médecin,Hôpital général ou central,Un à trois jours,1,l’évolution des troubles du comportement chez l’enfant,1,1,0,line_chart,1,1,table;line_chart,9.1,1,1
+R07-Q6,R07,Médecin,Hôpital général ou central,Un à trois jours,1,la tendance des consultations et motif de consultation en pédiatrie,1,1,0,line_chart,1,1,table;line_chart,6.2,1,1
+R08-Q1,R08,Infirmier ou infirmière,Hôpital régional,Quelques heures,2,Quels sont les résultats des derniers examens des patients suivis pour le VIH ?,1,1,0,table,0,0,number,7.9,1,0
+R08-Q2,R08,Infirmier ou infirmière,Hôpital régional,Quelques heures,2,Le patient a-t-il donné son consentement ?,0,0,0,table,0,0,number,5.8,1,0
+R08-Q3,R08,Infirmier ou infirmière,Hôpital régional,Quelques heures,2,Quel est l'effectif du personnel du service VIH ?,1,1,0,number,1,1,number,8.8,1,1
+R08-Q5,R08,Infirmier ou infirmière,Hôpital régional,Quelques heures,0,Comparer le nombre de patients suivis pour le VIH entre deux périodes.,1,1,0,number,0,0,table,8.1,1,0
+R09-Q1,R09,APS,Centre médical d'arrondissement,Quelques heures,1,Comment faire pour trouver les attendus du mois ?,1,1,0,table,1,1,number;table,8.2,1,1
+R09-Q2,R09,APS,Centre médical d'arrondissement,Quelques heures,1,Tu prends tes comprimés à quelle heure ?,0,0,0,table,1,1,table,5.5,1,0
+R09-Q3,R09,APS,Centre médical d'arrondissement,Quelques heures,2,Les heures de service sont-elles respectées ?,0,0,0,table,1,1,table,4.3,1,0
+R09-Q4,R09,APS,Centre médical d'arrondissement,Quelques heures,4,Comparer le nombre de patients suivis d'un mois à l'autre.,1,0,0,line_chart,0,0,number,9.0,1,0
+R09-Q5,R09,APS,Centre médical d'arrondissement,Quelques heures,1,Comparer deux groupes de patients suivis pour le VIH.,1,1,0,table,1,1,table,8.2,1,1
+R09-Q6,R09,APS,Centre médical d'arrondissement,Quelques heures,1,Comment fonctionne le système de santé,0,0,0,table,1,1,table;map,11.0,1,0
+R09-Q7,R09,APS,Centre médical d'arrondissement,Quelques heures,0,Comment gérer le stock de l'hôpital,0,0,0,table,0,0,,12.2,1,0
+R10-Q1,R10,Médecin sante publique,Délégation régionale de la santé publique,Quelques minutes,3,Liste des formations sanitaires par catégories,1,1,0,table,1,1,table,4.7,1,1
+R11-Q1,R11,Médecin,DRH,Quelques heures,5,Le nombre de naissances prématurées de l'année,1,1,0,number,0,0,table;bar_chart;line_chart,6.8,1,0
+R11-Q2,R11,Médecin,DRH,Quelques heures,5,Le nombre de nourrissons ayant été vaccinés ce semestre ?,1,1,1,number,0,0,table;bar_chart;pie_chart,7.5,1,0
+R11-Q3,R11,Médecin,DRH,Quelques heures,4,Le nombre d'absents ?,1,1,0,number,1,1,number;table,6.7,1,1
+R11-Q4,R11,Médecin,DRH,Quelques heures,2,Le nombre de récidiviste ?,1,1,0,number,1,0,number;table;bar_chart,5.7,1,1
+R11-Q5,R11,Médecin,DRH,Quelques heures,1,Comparer les consultations entre patients de sexe masculin et féminin.,1,0,0,bar_chart,0,0,line_chart,10.0,1,0
+R12-Q1,R12,Personnel de santé (TMS/Odonto),Centre de santé intégré,Quelques minutes,3,De me sortir les statistiques du mois! Chaque acte posé (le nombre et le nom des actes).,1,1,0,table,1,1,table,4.3,1,1
+R12-Q2,R12,Personnel de santé (TMS/Odonto),Centre de santé intégré,Quelques minutes,3,Un tableau de suivi hebdomadaire !,1,0,0,table,1,1,table,10.7,1,0
+R12-Q3,R12,Personnel de santé (TMS/Odonto),Centre de santé intégré,Quelques minutes,4,Comment répartir les patients entre les praticiens ?,0,0,0,table,0,0,pie_chart,9.5,1,0
+R12-Q4,R12,Personnel de santé (TMS/Odonto),Centre de santé intégré,Quelques minutes,4,Quel est le taux de patients reçus et l'évolution des recettes dans le temps ?,0,0,0,line_chart,1,0,bar_chart;line_chart,8.8,1,0
+R12-Q5,R12,Personnel de santé (TMS/Odonto),Centre de santé intégré,Quelques minutes,4,Comparer l'activité entre deux groupes de patients.,1,1,1,table,1,1,table,11.3,1,1
+R12-Q6,R12,Personnel de santé (TMS/Odonto),Centre de santé intégré,Quelques minutes,5,Quel est l'inventaire du matériel du service ?,0,0,0,table,1,1,number;table,15.9,1,0
+R13-Q1,R13,Stagiaire,CHU,Quelques heures,4,"Bonjour, Mr/Mme svp j'ai je suis Étudiant stagiaire dans cet hôpital, j'ai déposé un rapport de stage il y a pas longtemps, je voudrais pouvoir le revoir, est ce que c'est possible que vous m'aidiez à mettre la main dessus ?",0,0,0,table,1,1,table;line_chart,8.0,1,0
+R13-Q2,R13,Stagiaire,CHU,Quelques heures,4,Bonjour svp je suis étudiant au service de ORL je voudrais avoir la liste des patients reçu de la période de Mars est ce que c'est possible d'avoir une vue d'ensemble des dossiers ?,1,0,0,table,1,1,table,11.7,1,0
+R13-Q3,R13,Stagiaire,CHU,Quelques heures,4,Quels sont les différents membres de ce service et comment chacun contribue à faire fonctionner le service ?,1,1,0,table,1,1,table,8.0,1,1
+R13-Q4,R13,Stagiaire,CHU,Quelques heures,4,Oui la satisfaction des patients et la qualité de soins durant leur hospitalisation.,0,0,1,number,0,0,line_chart,13.3,1,0
+R13-Q5,R13,Stagiaire,CHU,Quelques heures,4,Le niveau de compétence et le service des soins rendu,0,0,0,table,1,1,table,14.2,1,0
+R14-Q1,R14,Médecin,Privée,Quelques minutes,5,Quel est le bilan mensuel du cabinet ?,1,1,0,line_chart,0,0,table,8.4,1,0
+R14-Q2,R14,Médecin,Privée,Quelques minutes,5,Je veux l'état de suivi des patients....?,1,1,0,table,1,1,table;bar_chart,8.4,1,1
+R14-Q3,R14,Médecin,Privée,Quelques minutes,5,Besoin du rapport de toutes les réunions,0,0,0,table,1,1,table,7.9,1,0
+R14-Q4,R14,Médecin,Privée,Quelques minutes,5,Je veux le bilan mensuel du service sur les 12 dernier mois,1,1,0,line_chart,0,0,table;bar_chart,8.4,1,0
+R14-Q5,R14,Médecin,Privée,Quelques minutes,4,Je veux la comparaison sur les deux derniers mois,1,1,0,table,1,0,table;bar_chart,8.9,1,1
+R14-Q6,R14,Médecin,Privée,Quelques minutes,4,L'âge des patients sur les 5 derniers mois,1,1,0,number,0,0,table,7.3,1,0
+R15-Q1,R15,Étudiant,Officine,Quelques minutes,2,Quels sont les patients qui ont une assurance,1,1,0,table,1,0,number;table;bar_chart,7.1,1,1
+R15-Q2,R15,Étudiant,Officine,Quelques minutes,2,Ceux qui sont assurés,1,0,0,table,0,0,number,8.1,1,0
+R15-Q3,R15,Étudiant,Officine,Quelques minutes,2,Quelle est la part des patients assurés ?,1,1,0,pie_chart,0,0,table,6.5,1,0
+R16-Q1,R16,Médecin,Structure privée ou confessionnelle,Quelques heures,2,Toutes les données des patients ont-elles bien été saisies ?,0,0,0,table,1,1,table;bar_chart;pie_chart;doughnut_chart;line_chart;map,13.1,1,0
+R16-Q2,R16,Médecin,Structure privée ou confessionnelle,Quelques heures,2,"Quelle est la spécificité de ce groupe, et les points communs pour une étude éventuelle",1,0,0,table,1,1,table;bar_chart;pie_chart;doughnut_chart;line_chart,11.4,1,0
+R16-Q3,R16,Médecin,Structure privée ou confessionnelle,Quelques heures,2,Comment disposer de ces données régulièrement ?,0,0,0,table,1,1,table;bar_chart;pie_chart;doughnut_chart;line_chart;map,11.9,1,0
+R17-Q1,R17,Technicien dentaire,Structure privée ou confessionnelle,Quelques minutes,1,Quels sont les chiffres d'activité du service ?,1,0,0,number,0,0,table;bar_chart,9.5,1,0
+R17-Q2,R17,Technicien dentaire,Structure privée ou confessionnelle,Quelques minutes,1,Quelles sont les coordonnées des patients ?,1,1,0,map,0,0,table;bar_chart,6.4,1,0
+R17-Q3,R17,Technicien dentaire,Structure privée ou confessionnelle,Quelques minutes,1,Quelles sont les disponibilités du service ?,0,0,0,table,1,1,table,9.8,1,0
+R17-Q5,R17,Technicien dentaire,Structure privée ou confessionnelle,Quelques minutes,2,Comparer l'activité de deux services.,1,1,0,table,1,1,table,8.6,1,1
+R17-Q6,R17,Technicien dentaire,Structure privée ou confessionnelle,Quelques minutes,1,À quoi servira cette étude ?,0,0,0,table,1,1,table;bar_chart,8.8,1,0
+R18-Q1,R18,Infirmier ou infirmière,Structure privée ou confessionnelle,Quelques heures,5,Quels sont les MAPE et MNT de cette semaine ?,1,1,0,table,1,0,number;table;line_chart,7.3,1,1
+R18-Q2,R18,Infirmier ou infirmière,Structure privée ou confessionnelle,Quelques heures,4,"Quel est le nombre de patients ayant consulté pour paludisme, mal gastrique, fièvre typhoïde, syndrome grippal ?",1,1,1,number,1,0,number;table;line_chart,6.2,1,1
+R18-Q3,R18,Infirmier ou infirmière,Structure privée ou confessionnelle,Quelques heures,4,Quelle est la consommation moyenne mensuelle des médicaments traceurs ?,1,0,0,number,1,1,number;table;line_chart,11.0,1,0
+R18-Q4,R18,Infirmier ou infirmière,Structure privée ou confessionnelle,Quelques heures,4,Quel est le nombre de femmes enceintes en cpn perdues de vue et le dernier personnel à l'avoir reçu ?,1,1,0,number,1,1,number,6.8,1,1
+R18-Q5,R18,Infirmier ou infirmière,Structure privée ou confessionnelle,Quelques heures,4,Comparer le nombre de consultations entre deux périodes.,1,0,0,line_chart,0,0,bar_chart;pie_chart,8.5,1,0
+R19-Q1,R19,Odontologie,Hôpital de district,Quelques minutes,2,Quels sont les nombres d'extractions réalisé ?,1,0,0,number,0,0,table,17.8,1,0
+R19-Q2,R19,Odontologie,Hôpital de district,Quelques minutes,2,Comment vous trouvez la prise en charge ?,0,0,0,table,1,1,table,11.6,1,0
+R19-Q3,R19,Odontologie,Hôpital de district,Quelques minutes,2,Le nombre approximatif des patients par mois,1,1,0,number,0,0,table,3.8,1,0
+R19-Q4,R19,Odontologie,Hôpital de district,Quelques minutes,2,Nombre de consultation et les nombres de cellulite,1,1,0,table,1,1,table,8.1,1,1
+R19-Q5,R19,Odontologie,Hôpital de district,Quelques minutes,2,Comparer l'activité du service entre deux périodes.,1,1,1,line_chart,0,0,table,14.4,1,0
+R19-Q7,R19,Odontologie,Hôpital de district,Quelques minutes,0,L'évolution du service d'odontologie avant et aujourd'hui,1,1,0,line_chart,0,0,,9.3,1,0
+R20-Q1,R20,Technicien dentaires,Structure privée ou confessionnelle,Quelques heures,2,Quel était l’âge du 4e patient de la journée d’hier stp,1,0,0,number,1,1,number,11.0,1,0
+R20-Q2,R20,Technicien dentaires,Structure privée ou confessionnelle,Quelques heures,5,Les causes de leurs venu et les soins fait,1,1,0,table,1,1,table,8.3,1,1
+R20-Q3,R20,Technicien dentaires,Structure privée ou confessionnelle,Quelques heures,5,Quelles ont été les entrées du service avant cet achat ?,0,0,0,table,0,0,map,11.4,1,0
+R20-Q4,R20,Technicien dentaires,Structure privée ou confessionnelle,Quelques heures,5,Quelles nouvelles technologies sont disponibles au service ?,0,0,0,table,1,0,number;table;bar_chart;line_chart;map,8.4,1,0
+R20-Q5,R20,Technicien dentaires,Structure privée ou confessionnelle,Quelques heures,5,Quelles sont les dépenses et les recettes du service ?,0,0,0,table,0,0,bar_chart;line_chart,21.4,1,0
+R21-Q1,R21,Médecin,Hôpital général ou central,"Le plus souvent, je n'obtiens rien",5,Les patients suivis pour cancer du colon de 2020-2025,1,1,0,table,1,1,number;table;bar_chart;pie_chart;doughnut_chart;line_chart;map,8.5,1,1
+R21-Q2,R21,Médecin,Hôpital général ou central,"Le plus souvent, je n'obtiens rien",5,"Le profil de leurs examens biologiques et morphologiques, synthèse statistique",1,1,0,table,1,1,table;bar_chart;pie_chart,7.8,1,1
+R21-Q3,R21,Médecin,Hôpital général ou central,"Le plus souvent, je n'obtiens rien",5,Quelle est la répartition des patients selon leur diagnostic,1,1,0,pie_chart,0,0,table,5.6,1,0
+R21-Q4,R21,Médecin,Hôpital général ou central,"Le plus souvent, je n'obtiens rien",5,Le profil des Examens biologiques et leur évolution,1,1,0,table,1,1,table,6.7,1,1
+R21-Q5,R21,Médecin,Hôpital général ou central,"Le plus souvent, je n'obtiens rien",5,Quelles sont les valeurs moyennes des examens biologiques de ces patients ?,1,1,0,table,1,0,number;table,498.0,1,1
+R21-Q6,R21,Médecin,Hôpital général ou central,"Le plus souvent, je n'obtiens rien",5,Classification des patients selon le diagnostic,1,1,0,table,1,1,table,6.0,1,1
+R22-Q1,R22,Pharmacien,Hôpital de district,Un à trois jours,4,Quelles sont les consommations moyennes mensuelle pour chaque produit ?,1,0,0,table,1,0,number;table;bar_chart;pie_chart;line_chart,12.2,1,0
+R22-Q2,R22,Pharmacien,Hôpital de district,Un à trois jours,4,Comment évolue l'état de chaque patient ?,1,1,0,line_chart,1,0,table;line_chart,7.4,1,1
+R22-Q3,R22,Pharmacien,Hôpital de district,Un à trois jours,4,Comment a évolué la situation sur les trois derniers mois,1,1,1,line_chart,1,1,table;bar_chart;pie_chart;line_chart,13.5,1,1
+R22-Q4,R22,Pharmacien,Hôpital de district,Un à trois jours,5,Quels sont les paramètres de gestion des stocks ?,0,0,0,table,1,0,number;table;bar_chart;pie_chart;doughnut_chart;line_chart,240.6,1,0
+R22-Q5,R22,Pharmacien,Hôpital de district,Un à trois jours,5,Comparer deux groupes de patients sur deux périodes dans deux services.,1,1,0,table,1,0,table;bar_chart;pie_chart;line_chart,4.2,1,1
+R22-Q6,R22,Pharmacien,Hôpital de district,Un à trois jours,5,Comment je dois agir actuellement en fonction des différents indicateurs de performance ?,0,0,0,table,1,1,table,12.3,1,0
+R23-Q1,R23,Technicien de laboratoire,Hôpital de district,Un à trois jours,2,Quel est le nombre de patients féminin et masculin qui ont fait la NFS et l'examen d'hémostase ?,1,1,0,table,0,0,number,7.1,1,0
+R23-Q2,R23,Technicien de laboratoire,Hôpital de district,Un à trois jours,5,Comment était le contrôle NFS du patient des urgences de la semaine dernière ?,1,1,0,table,0,0,number,8.4,1,0
+R23-Q3,R23,Technicien de laboratoire,Hôpital de district,Un à trois jours,5,Est ce qu'il manque du matériel pour les prochaines gardes?,0,0,0,table,1,1,table,5.9,1,0
+R23-Q5,R23,Technicien de laboratoire,Hôpital de district,Un à trois jours,1,Comparer l'activité du service de garde et celle de la permanence.,1,1,0,table,0,0,number,8.6,1,0
+R24-Q1,R24,Infirmier ou infirmière,Structure privée ou confessionnelle,Quelques minutes,1,Résultat de la NFS,1,1,0,table,1,1,table,6.2,1,1
+R24-Q2,R24,Infirmier ou infirmière,Structure privée ou confessionnelle,Quelques minutes,5,ses bilans sanguins,1,1,0,table,1,1,table,7.9,1,1
+R24-Q3,R24,Infirmier ou infirmière,Structure privée ou confessionnelle,Quelques minutes,5,L’effectif du personnel du service,1,1,0,table,0,0,number,8.7,1,0
+R24-Q4,R24,Infirmier ou infirmière,Structure privée ou confessionnelle,Quelques minutes,5,L ‘état général du patient,0,0,0,table,0,0,line_chart,7.1,1,0
+R24-Q5,R24,Infirmier ou infirmière,Structure privée ou confessionnelle,Quelques minutes,3,Comparer deux groupes de patients hospitalisés en réanimation.,1,1,0,table,0,0,bar_chart,7.0,1,0
+R25-Q1,R25,Médecin,Structure privée ou confessionnelle,Quelques minutes,5,Le patient doit encore payer combien ?,0,0,0,number,1,1,number;table,11.8,1,0
+R25-Q2,R25,Médecin,Structure privée ou confessionnelle,Quelques minutes,5,Comment ça va depuis la dernière fois?,0,0,0,table,1,0,number;table;line_chart,12.9,1,0
+R25-Q3,R25,Médecin,Structure privée ou confessionnelle,Quelques minutes,5,Les entrées financières et la satisfaction du personnel,0,0,0,table,1,0,number;table;line_chart,21.5,1,0
+R25-Q4,R25,Médecin,Structure privée ou confessionnelle,Quelques minutes,5,L’état d’esprit du personnel (collègues) et les finances,0,0,0,table,1,0,number;table;line_chart,16.1,1,0
+R25-Q5,R25,Médecin,Structure privée ou confessionnelle,Quelques minutes,5,L’état d’esprit du personnel y travaillant (satisfaction),0,0,0,number,0,0,table;line_chart,15.5,1,0
+R25-Q6,R25,Médecin,Structure privée ou confessionnelle,Quelques minutes,5,Aux collègues : comment vous vous sentez depuis un temps ? Sur les 12 derniers mois par exemple,0,0,0,number,0,0,table;line_chart,12.2,1,0
+R26-Q1,R26,Infirmier ou infirmière,Hôpital de district,Quelques heures,3,Pourrais je savoir comment fonctionne le système madame ? J'aimerais avoir la répartition des données des patients ?,1,1,0,table,1,0,table;bar_chart;pie_chart,8.6,1,1
+R26-Q2,R26,Infirmier ou infirmière,Hôpital de district,Quelques heures,4,Votre état de maladie avance ?,0,0,0,table,1,0,table;bar_chart;pie_chart;doughnut_chart,7.4,1,0
+R26-Q3,R26,Infirmier ou infirmière,Hôpital de district,Quelques heures,4,Quels sont les facteurs organisationnel rencontré,0,0,0,table,0,0,bar_chart;pie_chart;doughnut_chart,7.5,1,0
+R26-Q4,R26,Infirmier ou infirmière,Hôpital de district,Quelques heures,4,Quels sont vos préférences,0,0,0,table,1,0,number;table;bar_chart;pie_chart,8.1,1,0
+R26-Q5,R26,Infirmier ou infirmière,Hôpital de district,Quelques heures,4,Comment l'activité du service évolue-t-elle dans le temps ?,1,1,0,line_chart,0,0,bar_chart;pie_chart,6.4,1,0
+R27-Q1,R27,Dentiste,Structure privée ou confessionnelle,Quelques heures,3,Quels sont en fonction du sexe et de l'âge les fréquences des soins conservateurs et extraction réalisés au service dentaire ?,1,1,0,table,1,1,table;bar_chart;pie_chart,8.9,1,1
+R27-Q2,R27,Dentiste,Structure privée ou confessionnelle,Quelques heures,4,Fréquence de fréquentation du service dentaire par les enfants,1,1,1,number,0,0,table;bar_chart;pie_chart,12.3,1,0
+R27-Q3,R27,Dentiste,Structure privée ou confessionnelle,Quelques heures,4,Quels sont les instruments et consommables encore fonctionnels et non fonctionnel,0,0,0,pie_chart,1,0,table;pie_chart,9.9,1,0
+R27-Q4,R27,Dentiste,Structure privée ou confessionnelle,Quelques heures,5,Taux de fréquentation des patients,1,1,0,table,1,0,number;table;pie_chart,6.9,1,1
+R27-Q5,R27,Dentiste,Structure privée ou confessionnelle,Quelques heures,4,Le taux de fréquentation des enfants par rapport à celui des adultes,1,1,0,table,1,1,table;pie_chart,6.6,1,1
+R28-Q1,R28,Technicien de laboratoire,Structure privée ou confessionnelle,Un à trois jours,4,Quel est le nombre total de test effectué le mois dernier ?,1,1,1,number,0,0,table;bar_chart,3.0,1,0
+R28-Q2,R28,Technicien de laboratoire,Structure privée ou confessionnelle,Un à trois jours,4,Combien d'enfants avons-nous reçu ?,1,1,0,number,1,0,number,6.7,1,1
+R28-Q3,R28,Technicien de laboratoire,Structure privée ou confessionnelle,Un à trois jours,4,Combien de tests avons nous encore en stock ?,0,0,0,number,1,0,number;table;bar_chart;pie_chart,12.1,1,0
+R28-Q4,R28,Technicien de laboratoire,Structure privée ou confessionnelle,Un à trois jours,4,À quelle fréquence les patients nous visitent?,1,1,0,table,0,0,bar_chart;pie_chart;line_chart,5.7,1,0
+R28-Q5,R28,Technicien de laboratoire,Structure privée ou confessionnelle,Un à trois jours,3,Quel est le taux de fréquentation enfant et adulte ?,1,1,0,number,0,0,table;bar_chart,9.3,1,0
+R28-Q6,R28,Technicien de laboratoire,Structure privée ou confessionnelle,Un à trois jours,3,Quel pourcentage le labo produit chaque mois ?,1,0,0,number,0,0,table;bar_chart;pie_chart;doughnut_chart,836.0,1,0
